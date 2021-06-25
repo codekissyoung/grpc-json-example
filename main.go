@@ -7,14 +7,13 @@ import (
 	"net"
 	"os"
 
-	"google.golang.org/grpc"
-	"google.golang.org/grpc/credentials"
-	"google.golang.org/grpc/grpclog"
-
 	_ "github.com/johanbrandhorst/grpc-json-example/codec" // To register JSON codec
 	"github.com/johanbrandhorst/grpc-json-example/insecure"
 	pbExample "github.com/johanbrandhorst/grpc-json-example/proto"
 	"github.com/johanbrandhorst/grpc-json-example/server"
+	"google.golang.org/grpc"
+	"google.golang.org/grpc/credentials"
+	"google.golang.org/grpc/grpclog"
 )
 
 var (
