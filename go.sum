@@ -2,8 +2,6 @@ github.com/golang/glog v0.0.0-20210429001901-424d2337a529 h1:2voWjNECnrZRbfwXxHB
 github.com/golang/glog v0.0.0-20210429001901-424d2337a529/go.mod h1:SBH7ygxi8pfUlaOkMMuAQtPIUF8ecWP5IEl/CR7VP2Q=
 github.com/golang/protobuf v1.1.0 h1:0iH4Ffd/meGoXqF2lSAhZHt8X+cPgkfn/cb6Cce5Vpc=
 github.com/golang/protobuf v1.1.0/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
-github.com/johanbrandhorst/grpc-json-example v0.0.0-20180722152311-a20c72379c60 h1:NHn0SFAG+WL0ISdu6FLDaQ84v1hw5mlOF1V2yy2Rhr8=
-github.com/johanbrandhorst/grpc-json-example v0.0.0-20180722152311-a20c72379c60/go.mod h1:Nm6xU9vvOA4W1Cg8mgweaUSihBmVC8zKo9mGMsCLrhw=
 golang.org/x/net v0.0.0-20180511174649-2491c5de3490 h1:0Q0ESa4hjqMAXX5fW/YoKX7MlU1fWzl2ZNJrv7Yo3ZE=
 golang.org/x/net v0.0.0-20180511174649-2491c5de3490/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
 golang.org/x/sync v0.0.0-20210220032951-036812b2e83c h1:5KslGYwFpkhGh+Q16bwMP3cOontH8FOep7tGV86Y7SQ=
