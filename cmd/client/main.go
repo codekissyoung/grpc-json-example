@@ -42,7 +42,7 @@ func main() {
 	defer conn.Close()
 	c := pbExample.NewUserServiceClient(conn)
 
-	user := pbExample.User{Id: 34, Role: pbExample.Role_ADMIN}
+	user := pbExample.User{Id: 36, Role: pbExample.Role_ADMIN}
 	_, err = c.AddUser(ctx, &user)
 	if err != nil {
 		log.Fatalln("Failed to add user:", err)
